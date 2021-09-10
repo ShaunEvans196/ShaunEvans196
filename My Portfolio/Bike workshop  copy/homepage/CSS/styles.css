@@ -1,0 +1,106 @@
+/* colour scheem
+Pinkk #CF0072
+lavinder #CFC4D4
+Ssilver #747474
+Wwhite #FBFBFB
+Bblack #121113
+*/
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", "Open Sans", Arial, sans-serif
+
+}
+.main-text-left p{
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: left;
+  margin: 1rem;
+
+}
+
+
+.title {
+  margin-left: 10%;
+}
+
+.top-description {
+  position: absolute;
+  right: 10%;
+  top: 10px;
+  text-align: right;
+}
+
+.bike {
+  height: 250px;
+  width: 100%;
+  background-image: url(https://fixyourbikevoucherscheme.est.org.uk/content/est/photography/banner-bike-1.jpg);
+  background-size: 100%;
+  background-position: center;
+  position: relative;
+  top: 100px;
+}
+
+.top-box {
+  background-color: #CF0072;
+  position: relative;
+  top: 50px;
+  height: 80px;
+  width: 80%;
+  margin: auto;
+  z-index: 3;
+  border-style: solid;
+  border-color:white;
+  border-width: 1px;
+}
+
+.top-text {
+  position: absolute;
+  color: #FBFBFB;
+  left:34%;
+
+
+}
+
+.login-container {
+  width:80%;
+  height:1000px;
+  margin:auto;
+  position:relative;
+  top:30px;
+
+}
+
+
+.main-text-left{
+  height:226px;
+  width: 45%;
+  background-color:#CFC4D4;
+  top:2rem;
+  position:absolute;
+  border-color: #cab8c9;
+  border-width: 1px;
+  border-style:solid;
+  line-height:1rem;
+
+}
+
+
+
+
+
+.card{
+  background-color:#FBFBFB;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #121113;
+  position:absolute;
+  height: 350px;
+  width: 50%;
+  right:0;
+  top:2rem;
+}
+
+.card-body{
+  padding: 1.25rem;
+}
